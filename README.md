@@ -1,8 +1,8 @@
-🎯 Job Portal Mobile App
+----- Job Portal Mobile App   -----
 
 A cross-platform Job Portal mobile application built using React Native, Tailwind CSS, and JavaScript — designed to connect students seeking jobs with recruiters offering opportunities. The backend is powered by Node.js, Express.js, MongoDB, and JWT Authentication for secure user management.
 
-🚀 Tech Stack
+---- Tech Stack ----
 
 Frontend:
 
@@ -22,8 +22,8 @@ MongoDB (Mongoose ORM)
 
 JWT (JSON Web Token) for authentication
 
-👤 User Roles & Features
-🎓 Student
+-------------- User Roles & Features  -------------
+------ Student ------
 
 Register / Login securely with JWT
 
@@ -33,7 +33,7 @@ View applied jobs and application responses
 
 Edit / Update personal profile
 
-💼 Recruiter
+---- Recruiter ----
 
 Register / Login securely
 
@@ -47,11 +47,11 @@ Accept or reject applications
 
 Logout functionality
 
-🔐 Authentication
+---- Authentication ----
 
 Implemented using JWT (JSON Web Tokens) to ensure secure login and role-based access for both Students and Recruiters.
 
-🧱 Folder Structure
+---- Folder Structure ----
 
 frontend/ → React Native mobile app
 
@@ -68,3 +68,4 @@ Fully responsive and optimized UI using Tailwind CSS
 Secure authentication and role-based access
 
 Scalable backend with Express and MongoDB
+
